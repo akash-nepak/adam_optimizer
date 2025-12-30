@@ -1,2 +1,2 @@
 # adam_optimizer
-building adam optimizer from scratch
+building and visualizing adam optimizer from scratch,
